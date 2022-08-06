@@ -82,3 +82,13 @@ nav {
   border-top: 5px #eee;
   border-bottom: 5px #eee;
 }
+section* {
+    display: block;
+}
+.more-articles {
+    display: flex;
+}
+hr {
+  border-bottom: 2px;
+  border-top: 2px;
+}
